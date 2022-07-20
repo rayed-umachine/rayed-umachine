@@ -1,5 +1,5 @@
-
-GitHub: <a href="https://github.com/rayedsikder">rayedsikder</a>
+## Hi! I am not active over here
+## Here's the link to my active Github account: <a href="https://github.com/rayedsikder">rayedsikder</a>
 
 <!---
 rayed-umachine/rayed-umachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
